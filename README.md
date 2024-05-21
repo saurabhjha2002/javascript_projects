@@ -1,6 +1,6 @@
 # javascript_projects
 
-**Project 1********UNIT CONVERTER PROJECT****
+****Project 1** ********UNIT CONVERTER PROJECT****
 
 Unit Converter is an app that lets you do exactly convert units from feet to inches and inches to feet, regardless of what you're trying to measure.
 
@@ -15,6 +15,8 @@ Time-saving: They provide instant results, eliminating the need for manual calcu
 ****To swap two variables in JavaScript we use:**
 
 *Firstly, We Create a temporary variable to store the value of the first variable.
+
 *Second, We Set the first element to the value of the second variable.
+
 * Finally, Set the second variable to the value in the temporary variable.
 
