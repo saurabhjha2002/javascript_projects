@@ -18,5 +18,5 @@ Time-saving: They provide instant results, eliminating the need for manual calcu
 
 *Second, We Set the first element to the value of the second variable.
 
-* Finally, Set the second variable to the value in the temporary variable.
+*Finally, Set the second variable to the value in the temporary variable.
 
