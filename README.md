@@ -1,2 +1,2 @@
 # javascript_projects
-demo
+demo projects
